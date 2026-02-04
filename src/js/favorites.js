@@ -1,4 +1,4 @@
-import APIService from './00-api';
+import APIService from './api';
 const apiService = new APIService();
 
 const modalExercises = document.querySelector('.modal-exercises');

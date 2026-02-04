@@ -1,10 +1,10 @@
-import APIService from './00-api';
+import APIService from './api';
 import icons from '../img/sprite.svg';
-import image from '../img/modal-exercise-image.jpg';
-import imageRetina from '../img/modal-exercise-image@2x.jpg';
+import image from '../img/coming-soon.jpg';
+import imageRetina from '../img/coming-soon@2x.jpg';
 const apiService = new APIService();
 
-import { createMarkupFavorite } from './15-remove-local';
+import { createMarkupFavorite } from './local-storage-remove';
 
 let isFavorite = false;
 let idFavorite;

@@ -1,5 +1,5 @@
-import APIService from './00-api';
-import { renderExercises } from './12-exercises';
+import APIService from './api';
+import { renderExercises } from './trainings';
 const apiService = new APIService();
 
 const searchButton = document.querySelector('.search__button');

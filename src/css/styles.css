@@ -8,13 +8,13 @@
 @import url('./utils/reset.css');
 
 /* FOLDER LAYOUTS */
-@import url('./layout/01-header.css');
-@import url('./layout/02-hero.css');
-@import url('./layout/03-exercises.css');
-@import url('./layout/04-footer.css');
-@import url('./layout/05-modal-exercise.css');
-@import url('./layout/06-modal-rating.css');
-@import url('./layout/08-scroll-up.css');
-@import url('./layout/09-loader.css');
-@import url('./layout/10-favorites.css');
-@import url('./layout/11-modal-bmi.css');
+@import url('./layout/header.css');
+@import url('./layout/hero.css');
+@import url('./layout/trainings.css');
+@import url('./layout/footer.css');
+@import url('./layout/training-popup.css');
+@import url('./layout/rating-popup.css');
+@import url('./layout/fab-to-top.css');
+@import url('./layout/in-progress.css');
+@import url('./layout/favorites.css');
+@import url('./layout/bmi-popup.css');

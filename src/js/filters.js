@@ -1,4 +1,4 @@
-import APIService from './00-api';
+import APIService from './api';
 const apiService = new APIService();
 const listItem = document.querySelector('.js-list');
 const paginationButtons = document.getElementById('pagination-numbers');

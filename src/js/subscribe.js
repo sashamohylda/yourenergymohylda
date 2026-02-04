@@ -1,7 +1,7 @@
 import axios from 'axios';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-import { Messages } from './13-messages.js';
+import { Messages } from './messages.js';
 
 const form = document.getElementById('subscribeForm');
 const emailInput = form.querySelector('input[name="email"]');

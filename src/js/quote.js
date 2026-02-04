@@ -1,4 +1,4 @@
-import APIService from './00-api';
+import APIService from './api';
 
 const quoteOfTheDay = document.querySelector('.js-quote');
 

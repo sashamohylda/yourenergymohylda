@@ -1,4 +1,4 @@
-import APIService from './00-api';
+import APIService from './api';
 import icons from '../img/sprite.svg';
 
 const apiService = new APIService();
